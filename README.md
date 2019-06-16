@@ -1,4 +1,32 @@
 # ML_EDU
 A collection of ML Articles and Code to get you started.
+<ol>
+<lil>Start by understanding a basic Neural Network: INTRO_NN.ipynb 
 
-Start with: INTRO_NN.ipynb
+Concepts further explained:
+<ol>
+<li>Understanding Backpropagation: http://colah.github.io/posts/2015-08-Backprop/ </li>
+<li> 
+</ol>
+
+</li>
+
+<li>Then impliment a Convolutional Neural Network on MNIST:
+
+Concepts further explained:
+<ol>
+<li> Put CNN links here </li>
+</ol>
+
+</li>
+
+<li> Talk about Proposing Regions for a Detector Setup 
+Concepts further explained:
+
+<ol> 
+<li> Link to Proposing Region Algorithms </li>
+
+</ol>
+
+
+
