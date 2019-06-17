@@ -1,7 +1,7 @@
 # ML_EDU
 A collection of ML Articles and Code to get you started.
 <ol>
-<lil>Start by understanding a basic Neural Network: INTRO_NN.ipynb 
+<lil>Start by understanding a basic Neural Network: nn-from-scratch.ipynb 
 
 Concepts further explained:
 <ol>
