@@ -21,7 +21,10 @@ http://colah.github.io/posts/2014-07-Understanding-Convolutions/ </li>
 http://colah.github.io/posts/2014-07-Understanding-Convolutions/</li>
 <li> Intuitively Understanding of CNN:
  
-https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1 </li>
+https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1
+ 
+ https://github.com/colah/Conv-Nets-Series
+</li>
 <li> Deeper Mathematical Dive into CNNs: 
 
 https://arxiv.org/pdf/1603.07285.pdf [animations: https://github.com/vdumoulin/conv_arithmetic]</li>
@@ -34,5 +37,13 @@ http://colah.github.io/posts/2015-09-Visual-Information/ </li>
 <li>Future Directions of ML Research: 
 
 https://towardsdatascience.com/neural-odes-breakdown-of-another-deep-learning-breakthrough-3e78c7213795</li>
+
+
+<li> RL Intro:
+ 
+https://www.intel.ai/demystifying-deep-reinforcement-learning/#gs.jenrff
+ 
+ 
+ </li>
 
 </ul> 
