@@ -18,6 +18,8 @@ https://towardsdatascience.com/understanding-binary-cross-entropy-log-loss-a-vis
 <li> Logistic Regression : 
 
 http://rasbt.github.io/mlxtend/user_guide/classifier/LogisticRegression/ 
+
+https://towardsdatascience.com/softmax-function-simplified-714068bf8156
 </li>
 
 <li> Regularization: 
